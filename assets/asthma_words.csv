@@ -1,0 +1,103 @@
+﻿ERSS Medical Keywords,Information Type,Annot Label,ERSS Table,Notes,CUI,Concept Name,Concept Type,Concept Dictionary,Attribute
+asthma attack,condition,,Schedular Evidence,not asthma alone,C0347950,Asthma attack,umls.DiseaseOrSyndrome,UMLS 2020AA,PCDiagnosis
+asthma exacerbation,condition,,Schedular Evidence,not asthma alone,C0349790,Exacerbation of asthma,umls.SignOrSymptom,Asthma Concepts,PCDiagnosis
+asthmatic attack,condition,,Schedular Evidence,not asthma alone,C0347950,Asthma attack,umls.DiseaseOrSyndrome,UMLS 2020AA,PCDiagnosis
+bronchial tubes,condition,,Other Medical Evidence,not bronchial alone,C0006255,Bronchi,umls.SignOrSymptom,Asthma Concepts,PCDiagnosis
+bronchoconstriction,condition,,Other Medical Evidence,,C0079043,Bronchoconstriction,umls.SignOrSymptom,Asthma Concepts,PCDiagnosis
+bronchospasm,condition,,Other Medical Evidence,,C0006266,Bronchospasm,umls.DiseaseOrSyndrome,UMLS 2020AA,PCDiagnosis
+lung volumes,condition,,Other Medical Evidence,,C0231953,Lung volume,umls.SignOrSymptom,Asthma Concepts,PCDiagnosis
+pulmonologist,condition,,Other Medical Evidence,,C0586859,Pulmonologists,umls.SignOrSymptom,Asthma Concepts,PCDiagnosis
+reactive airway disease,condition,,Other Medical Evidence,,C3714497,Reactive airway disease,umls.DiseaseOrSyndrome,UMLS 2020AA,PCDiagnosis
+respiratory failure,condition,,Schedular Evidence,,C1145670,Respiratory Failure,umls.DiseaseOrSyndrome,UMLS 2020AA,PCDiagnosis
+Accolate,medication,inhaled corticosteroid,Schedular Evidence,,C0526502,Accolate,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Advair,medication,bronchodilator,Schedular Evidence,,C0965130,Advair,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Airduo,medication,bronchodilator,Schedular Evidence,,C4473482,AirDuo,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+albuterol,medication,bronchodilator,Schedular Evidence,,C0001927,albuterol,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Alvesco,medication,inhaled corticosteroid,Schedular Evidence,,C1174745,Alvesco,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Anticholinergics ,medication,,Schedular Evidence,,C0242896,Anticholinergic Agents,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+Arnuity,medication,bronchodilator,Schedular Evidence,,C3855281,Arnuity,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Asmanex,medication,inhaled corticosteroid,Schedular Evidence,,C1704094,Asmanex,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Atrovent ,medication,bronchodilator,Schedular Evidence,,C0591130,Atrovent,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+beclometasone,medication,inhaled corticosteroid,Schedular Evidence,,C0004905,beclomethasone,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+beclomethasone,medication,inhaled corticosteroid,Schedular Evidence,,C0004905,beclomethasone,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+benralizumab,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C2982078,benralizumab,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Breo,medication,inhalational anti-inflammatory medication,Schedular Evidence,,C3832905,Breo,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+bronchodilator,medication,,Schedular Evidence,,C0006280,Bronchodilator Agents,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+budesonide,medication,inhaled corticosteroid,Schedular Evidence,,C0054201,budesonide,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+budesonide formoterol,medication,bronchodilator ,Schedular Evidence,,ADC-00002,Budesonide Formoterol,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+ciclesonide,medication,inhaled corticosteroid,Schedular Evidence,,C0907850,ciclesonide,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Cinqair,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C4224860,Cinqair,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+corticosteroid ,medication,,Schedular Evidence,,C0001617,Adrenal Cortex Hormones,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Depo-Medrol,medication,corticosteroid,Schedular Evidence,"derived concept with ""asthma""",ADC-00007,Depo-Medrol,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+Dulera,medication,inhaled corticosteroid,Schedular Evidence,,C2927154,Dulera,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+dupilumb,medication,inhalational anti-inflammatory medication,Schedular Evidence,,C3660996,dupilumab,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Dupixent,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C4325130,Dupixent,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Elixophyllin,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C0700831,Elixophyllin,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Fasenra,medication,inhaled corticosteroid,Schedular Evidence,,C4530833,Fasenra,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Flovent,medication,inhaled corticosteroid,Schedular Evidence,,C0720466,Flovent,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+fluticasone furoate,medication,bronchodilator,Schedular Evidence,not fluticasone alone,C1948374,fluticasone furoate,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+fluticasone furoate-vilanterol,medication,bronchodilator,Schedular Evidence,not fluticasone alone,ADC-00003,Fluticasone Furoate Vilanterol,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+fluticasone propionate ,medication,bronchodilator,Schedular Evidence,not fluticasone alone,C0117996,fluticasone propionate,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+fluticasone-salmeterol,medication,bronchodilator ,Schedular Evidence,not fluticasone alone,C0939232,fluticasone / salmeterol,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+formoterol mometasone,medication,bronchodilator ,Schedular Evidence,not formoteral alone,ADC-00001,Formoterol Mometasone,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+immuno-suppressive medication,medication,anti-inflammatory medication/corticosteroid,Schedular Evidence,,C0021081,Immunosuppressive Agents,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+inhalational anti-inflammatory medication,medication,,Schedular Evidence,,ASC-00001,Inhalational Anti-Inflammatory Medication,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+inhaler,medication,,Schedular Evidence,,C0021461,Inhaler,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+ipratropium ,medication,inhaled corticosteroid,Schedular Evidence,,C0027235,ipratropium,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+leukotriene antagonist,medication,bronchodilator/corticosteroid,Schedular Evidence,,C0595726,Leukotriene Antagonists,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Leukotriene modifier,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C0595726,Leukotriene Antagonists,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+levalbuterol,medication,bronchodilator,Schedular Evidence,,C0772501,levalbuterol,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Meclofenamate ,medication,corticosteroid,Schedular Evidence,,C1289957,meclofenamate,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Meclomen,medication,inhaled corticosteroid,Schedular Evidence,,C0728758,Meclomen,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Medrol,medication,corticosteroid,Schedular Evidence,"derived concept with ""asthma""",ADC-00006,Medrol,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+mepolizumab,medication,inhaled corticosteroid,Schedular Evidence,,C0969324,mepolizumab,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+methylprednisolone,medication,corticosteroid,Schedular Evidence,"derived concept with ""asthma""",ADC-00005,Methylprednisolone,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+MK-886,medication,bronchodilator/corticosteroid,Schedular Evidence,,C0128640,MK-886,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+mometasone,medication,inhalational anti-inflammatory medication,Schedular Evidence,,C0360564,mometasone,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+montelukast,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C0298130,montelukast,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Nebulizers,medication,,Schedular Evidence,,C0027524,Nebulizers,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+Nucala,medication,inhaled corticosteroid,Schedular Evidence,,C4058347,Nucala,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Omalizumab,medication,inhaled corticosteroid,Schedular Evidence,,C0966225,omalizumab,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Onon,medication,inhaled corticosteroid ,Schedular Evidence,,C0526058,pranlukast,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+pranlukast ,medication,inhaled corticosteroid,Schedular Evidence,,C0526058,pranlukast,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+prednisone,medication,corticosteroid,Schedular Evidence,"derived concept with ""asthma""",ADC-00004,Prednisone,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+ProAir,medication,bronchodilator,Schedular Evidence,,C0162684,Pro-Air Procaterol,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Pulmicort,medication,inhaled corticosteroid,Schedular Evidence,,C0678162,Pulmicort,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Qvar,medication,inhaled corticosteroid,Schedular Evidence,,C0731268,Qvar,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Rayos,medication,inhaled corticosteroid,Schedular Evidence,,C3475334,Rayos,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+reslizumab,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C1869620,reslizumab,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Rhinocort,medication,inhalational anti-inflammatory medication,Schedular Evidence,,C0678163,Rhinocort,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+salbutamol,medication,inhaled corticosteroid,Schedular Evidence,,C0001927,albuterol,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Singulair,medication,inhaled corticosteroid,Schedular Evidence,,C0595724,Singulair,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Solu-Medrol,medication,corticosteroid,Schedular Evidence,"derived concept with ""asthma""",ADC-00008,Solu-Medrol,umls.PharmacologicSubstance,Asthma Derived Concepts,MedicationTaken
+Spiriva,medication,bronchodilator,Schedular Evidence,,C0905678,Spiriva,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Steroids,medication,corticosteroid,Schedular Evidence,,C0038317,Steroids,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Symbicort,medication,inhaled corticosteroid,Schedular Evidence,,C1121854,Symbicort,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+tezepelumab-ekko,medication,corticosteroid,Schedular Evidence,,ASC-00002,Tezepelumab-ekko,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+Theo-24,medication,anti-inflammatory medication (tablets),Schedular Evidence,not theo alone,C0700825,Theo-24,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Theochron,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C0700838,Theochron,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Theophylline,medication,anti-inflammatory medication (tablets),Schedular Evidence,,C0039771,theophylline,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+tiotropium ,medication,bronchodilator,Schedular Evidence,,C0213771,tiotropium,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Ventolin,medication,bronchodilator,Schedular Evidence,,C0033744,Ventolin,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Xhance,medication,inhaled corticosteroid,Schedular Evidence,,C4529471,Xhance,umls.PharmacologicSubstance,Asthma Concepts,MedicationTaken
+Xolair,medication,inhaled corticosteroid,Schedular Evidence,,C1174773,Xolair,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Xopenex,medication,bronchodilator,Schedular Evidence,,C0876218,Xopenex,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Xopenex,medication,bronchodilator,Schedular Evidence,,C0876218,Xopenex,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+zafirlukast,medication,inhaled corticosteroid,Schedular Evidence,,C0378466,zafirlukast,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+zileuton,medication,inhaled corticosteroid,Schedular Evidence,,C0081408,zileuton,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+zileuton ,medication,inhaled corticosteroid,Schedular Evidence,,C0081408,zileuton,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+Zyflo,medication,inhaled corticosteroid,Schedular Evidence,,C0724508,Zyflo,umls.PharmacologicSubstance,UMLS 2020AA,MedicationTaken
+biologic therapy,procedure,,Schedular Evidence,,C0279694,Monoclonal Antibody Therapy,umls.TherapeuticOrPreventiveProcedure,Asthma Concepts,ExplicitProcedure
+bronchial thermoplasty,procedure,,Schedular Evidence,,C3854686,Bronchial Thermoplasty,umls.TherapeuticOrPreventiveProcedure,UMLS 2020AA,ExplicitProcedure
+bronchoprovocation test,procedure,,Schedular Evidence,,C0430567,Bronchoprovocation Test,umls.DiagnosticProcedure,Asthma Concepts,ExplicitProcedure
+fractional exhaled nitric oxide test,procedure,,Schedular Evidence,,C3898136,Nitric Oxide Breath Test,umls.DiagnosticProcedure,Asthma Concepts,ExplicitProcedure
+inhalation therapy,procedure,,Schedular Evidence,,C0021459,Inhalation Therapy,umls.TherapeuticOrPreventiveProcedure,UMLS 2020AA,ExplicitProcedure
+inhalational therapy,procedure,,Schedular Evidence,,C0021459,Inhalation Therapy,umls.TherapeuticOrPreventiveProcedure,UMLS 2020AA,ExplicitProcedure
+lung function test,procedure,,Schedular Evidence,,C0024119,Pulmonary function tests,umls.DiagnosticProcedure,UMLS 2020AA,ExplicitProcedure
+methacholine test,procedure,,Schedular Evidence,,C0430567,Bronchoprovocation Test,umls.DiagnosticProcedure,Asthma Concepts,ExplicitProcedure
+nitric oxide test,procedure,,Schedular Evidence,,C3898136,Nitric Oxide Breath Test,umls.DiagnosticProcedure,Asthma Concepts,ExplicitProcedure
+Oxygen therapy ,procedure,,Schedular Evidence,,C3665674,Warburg Therapy,umls.TherapeuticOrPreventiveProcedure,UMLS 2020AA,ExplicitProcedure
+peak expiratory flow test,procedure,,Schedular Evidence,,C0037981,Spirometry,umls.DiagnosticProcedure,Asthma Concepts,ExplicitProcedure
+peak flow meter,procedure,,Schedular Evidence,,C0180915,Peak flow meter,umls.TherapeuticOrPreventiveProcedure,Asthma Concepts,ExplicitProcedure
+Pulmonary function test,procedure,,Schedular Evidence,not pft acronym,C0024119,Pulmonary function tests,umls.DiagnosticProcedure,UMLS 2020AA,ExplicitProcedure
+sputum eosinophils,procedure,,Schedular Evidence,,C0241234,Sputum eosinophilia,umls.DiagnosticProcedure,Asthma Concepts,ExplicitProcedure
